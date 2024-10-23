@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\admin\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\admin\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\admin\\invoiceview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\admin\\invoiceview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\admin\\deletedusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\admin\\deletedusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\orderplaced.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\orderplaced.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\paynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\paynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\models\\singleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\models\\singleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\shared\\_websitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\shared\\_websitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\controllers\\websitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\controllers\\websitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\models\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\models\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\paymentfailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\paymentfailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\views\\website\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\views\\website\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|c:\\users\\admin\\desktop\\project\\onlinejobportal\\onlinejobportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{325A2C0A-EBEF-463C-B372-241B190B2401}|OnlineJobPortal\\OnlineJobPortal.csproj|solutionrelative:onlinejobportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\InvoiceView.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Admin\\InvoiceView.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\InvoiceView.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Admin\\InvoiceView.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAH4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:57:31.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:34:23.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:22:46.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T08:53:57.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\Product.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Admin\\Product.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\Product.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Admin\\Product.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:54:52.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\AdminLogin.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\AdminLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:22:38.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\ProductDetails.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:24:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Admin\\Invoice.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\Invoice.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Admin\\Invoice.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:14:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeletedUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\DeletedUsers.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Admin\\DeletedUsers.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Admin\\DeletedUsers.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Admin\\DeletedUsers.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T07:58:22.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPlaced.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\OrderPlaced.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\OrderPlaced.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\OrderPlaced.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\OrderPlaced.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:39:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\Products.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\Products.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\Products.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\Products.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:18:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PayNow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\PayNow.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\PayNow.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\PayNow.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\PayNow.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:04:29.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "OnlineJobPortal\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAqwL0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:12:31.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "singleorder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\singleorder.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Models\\singleorder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\singleorder.cs",
+              "RelativeToolTip": "OnlineJobPortal\\Models\\singleorder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:11:45.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_WebsiteLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Shared\\_WebsiteLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Shared\\_WebsiteLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Shared\\_WebsiteLayout.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Shared\\_WebsiteLayout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T07:49:23.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "OnlineJobPortal\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:25:42.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebsiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Controllers\\WebsiteController.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Controllers\\WebsiteController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Controllers\\WebsiteController.cs",
+              "RelativeToolTip": "OnlineJobPortal\\Controllers\\WebsiteController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:21:34.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\product.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Models\\product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\product.cs",
+              "RelativeToolTip": "OnlineJobPortal\\Models\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:18:15.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "adminlogin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\adminlogin.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Models\\adminlogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\adminlogin.cs",
+              "RelativeToolTip": "OnlineJobPortal\\Models\\adminlogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:22:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "slider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\slider.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Models\\slider.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\slider.cs",
+              "RelativeToolTip": "OnlineJobPortal\\Models\\slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:48:28.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "register.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\register.cs",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Models\\register.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Models\\register.cs",
+              "RelativeToolTip": "OnlineJobPortal\\Models\\register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:31:08.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\Index.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T08:07:17.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentFailed.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\PaymentFailed.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\PaymentFailed.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\PaymentFailed.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\PaymentFailed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:34:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BuyNow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\BuyNow.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\BuyNow.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\BuyNow.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\BuyNow.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:45:13.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\appsettings.json",
+              "RelativeToolTip": "OnlineJobPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T08:21:48.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineJobPortal\\Views\\Website\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\Views\\Website\\Register.cshtml",
+              "RelativeToolTip": "OnlineJobPortal\\Views\\Website\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:21:42.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

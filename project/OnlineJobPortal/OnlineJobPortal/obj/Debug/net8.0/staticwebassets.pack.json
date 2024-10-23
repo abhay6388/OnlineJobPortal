@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\category\\CODERS WAR 1.0 (2).png",
+      "PackagePath": "staticwebassets\\category\\CODERS WAR 1.0 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\category\\appstore.d313d9a1.png",
+      "PackagePath": "staticwebassets\\category\\appstore.d313d9a1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\category\\csharpeimages.jpg",
+      "PackagePath": "staticwebassets\\category\\csharpeimages.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\category\\home-one-filter.46afeaf5.png",
+      "PackagePath": "staticwebassets\\category\\home-one-filter.46afeaf5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\category\\pic5.png",
+      "PackagePath": "staticwebassets\\category\\pic5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\images\\pic1.JPG",
+      "PackagePath": "staticwebassets\\images\\pic1.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\images\\pic2.JPG",
+      "PackagePath": "staticwebassets\\images\\pic2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\images\\pic3.JPG",
+      "PackagePath": "staticwebassets\\images\\pic3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\product\\pic5.png",
+      "PackagePath": "staticwebassets\\product\\pic5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\slider\\CODERS WAR 1.0 (2).png",
+      "PackagePath": "staticwebassets\\slider\\CODERS WAR 1.0 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\slider\\loginbg1.jpg",
+      "PackagePath": "staticwebassets\\slider\\loginbg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\slider\\pic5.png",
+      "PackagePath": "staticwebassets\\slider\\pic5.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineJobPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineJobPortal.props",
+      "PackagePath": "build\\OnlineJobPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineJobPortal.props",
+      "PackagePath": "buildMultiTargeting\\OnlineJobPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineJobPortal.props",
+      "PackagePath": "buildTransitive\\OnlineJobPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
